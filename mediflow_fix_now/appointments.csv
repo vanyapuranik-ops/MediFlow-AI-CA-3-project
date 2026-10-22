@@ -1,0 +1,7 @@
+appointment_id,patient_id,department,doctor_id,date,start_time,duration_min,status
+A100,P001,Cardiology,D01,2026-10-20,09:00,30,BOOKED
+A101,P002,General Medicine,D02,2026-10-20,09:30,20,BOOKED
+A102,P003,Orthopedics,D03,2026-10-20,10:00,30,BOOKED
+A103,P004,General Medicine,D02,2026-10-20,10:00,20,BOOKED
+A104,P005,Cardiology,D01,2026-10-20,09:00,30,BOOKED
+A105,P006,Dermatology,D04,2026-10-20,11:00,20,BOOKED

@@ -1,0 +1,7 @@
+patient_id,patient_name,age,department,priority_flag,reason
+P001,Aarav Shah,67,Cardiology,HIGH,Follow-up after discharge
+P002,Mira Desai,34,General Medicine,ROUTINE,Routine consultation
+P003,Kabir Joshi,52,Orthopedics,MEDIUM,Post-treatment review
+P004,Anaya Kulkarni,26,General Medicine,ROUTINE,Routine consultation
+P005,Ishaan Patil,73,Cardiology,HIGH,Clinician-requested follow-up
+P006,Sara Khan,45,Dermatology,ROUTINE,Routine consultation
